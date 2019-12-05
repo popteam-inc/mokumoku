@@ -1,0 +1,15 @@
+current directory: /Users/onp55/projects/momoapp/momoapp/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20190817-15175-tw5o40.rb extconf.rb
+creating Makefile
+
+current directory: /Users/onp55/projects/momoapp/momoapp/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/onp55/projects/momoapp/momoapp/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/onp55/projects/momoapp/momoapp/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190817-15175-1fa0w98/skiptrace/internal

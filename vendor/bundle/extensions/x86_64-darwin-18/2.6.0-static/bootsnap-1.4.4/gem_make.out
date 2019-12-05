@@ -1,0 +1,15 @@
+current directory: /Users/onp55/projects/momoapp/momoapp/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+/Users/onp55/.anyenv/envs/rbenv/versions/2.6.3/bin/ruby -I /Users/onp55/.anyenv/envs/rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190823-60680-1uk7umu.rb extconf.rb
+creating Makefile
+
+current directory: /Users/onp55/projects/momoapp/momoapp/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/onp55/projects/momoapp/momoapp/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/onp55/projects/momoapp/momoapp/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20190823-60680-1il1j06/bootsnap
